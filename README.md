@@ -1,6 +1,9 @@
 ### Hi there 👋
+
 🔭 I’m currently working on a Braille project 
+
 🌱 I’m currently learning : Machine learning, typescript
+
 👯 I’m looking to collaborate on awesome Unity or Python Projects
 
 <!--
