@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a Braille project and motion tracking
 
-🌱 I’m currently learning :Advanced Machine learning algorithms and trying them out | typescript {september 2021- december 2021}
+🌱 I’m currently learning :Advanced Machine learning algorithms and trying them out | typescript {January 2022}
 
 👯 I’m looking to collaborate on awesome Unity or Python Projects
 
