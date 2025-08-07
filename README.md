@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I'm currently working on App.howtoabroad, building the first amazing Germany University tracker - one of a kind!
+
+🌱 I'm currently learning :Advanced Machine learning algorithms and trying them outi there 👋
+
 🔭 I’m currently working on a Braille project and motion tracking
 
 🌱 I’m currently learning :Advanced Machine learning algorithms and trying them out
@@ -12,7 +16,7 @@
 Here are some ideas to get you started:
 
 
--🤔 I’m looking for help with 
+-🤔 I’m looking for help with
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
