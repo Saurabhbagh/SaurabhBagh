@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🔭 I'm currently working on App.howtoabroad, building the first amazing Germany University tracker - one of a kind!
+🔭 I'm currently working on app.howtoabroad.com, an advanced job tracker and an AI-based German University course finder and tracker. 
 
-🌱 I'm currently learning :Advanced Machine learning algorithms and trying them outi there 👋
+🌱 I'm currently learning: Advanced Machine learning algorithms and trying them out there 👋
 
 🔭 I’m currently working on a Braille project and motion tracking
 
-🌱 I’m currently learning :Advanced Machine learning algorithms and trying them out
+🌱 I’m currently learning: Advanced Machine learning algorithms and trying them out
 
 👯 I’m looking to collaborate on awesome Unity or Python Projects
 
