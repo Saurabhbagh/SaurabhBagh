@@ -33,6 +33,13 @@
 	<summary><b>🧰 Tech I work with</b></summary>
 	<br/>
 	<p>
+		<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+		<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+		<img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" />
+		<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+		<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+		<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+		<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 		<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 		<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
 		<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -54,8 +61,8 @@
 ## 📊 GitHub snapshot
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saurabhbagh&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-	<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabhbagh&theme=transparent&hide_border=true" alt="GitHub streak" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saurabhbagh&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" alt="GitHub stats" />
+	<img height="170" src="https://streak-stats.demolab.com?user=Saurabhbagh&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
