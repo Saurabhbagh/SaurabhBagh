@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working on App.howtoabroad, building the first amazing Germany University tracker - one of a kind!
-
-🌱 I'm currently learning :Advanced Machine learning algorithms and trying them outi there 👋
-
-🔭 I’m currently working on a Braille project and motion tracking
-
-🌱 I’m currently learning :Advanced Machine learning algorithms and trying them out
+🔭 I'm currently working on Stacky HUB LLP builting jobstacky.com , unistacky.com and will starting working on rankstacky.com.
 
 👯 I’m looking to collaborate on awesome Unity or Python Projects
 
