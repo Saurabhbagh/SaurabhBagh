@@ -13,7 +13,7 @@
 
 - **StackyHub Ecosystem**
 	- `JobStacky.com` - Advanced **Job Application Tracker**
-	- `Unistacky.com` -AI-based **German university course finder + tracker**
+	- `Unistacky.com` -AI-based **German university course finder + tracker** - in Beta
 	- `RankStacky.com` - Alpha Phase launched
 - **Accessibility & Vision**
 	- Braille-focused project
